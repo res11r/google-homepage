@@ -1,0 +1,78 @@
+#navbar {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+a {
+  padding: 10px;
+  text-decoration: none;
+}
+
+a:link {
+  font-color: purple;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  display: block;
+  margin: auto;
+  margin-top: 110px;
+}
+
+div {
+  display: block;
+  margin: auto;
+}
+
+input[type=text] {
+  display: block;
+  margin: auto;
+  width: 50%;
+  margin-bottom: 10px;
+}
+
+input[type=submit] {
+  display: inline;
+  position: relative;
+  left: 550px
+}
+
+p {
+  display: inline;
+}
+
+#arabic {
+  text-align: center;
+}
+#footer {
+  width: 100%;
+  background-color: grey;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+#UAE
+{
+  border-color:darkgrey;
+  border-style:solid;
+  border-width:1px;
+}
+.right-side
+{
+  float:right;
+  border-color:darkgrey;
+  border-style:solid;
+  border-width:1px;
+}
+.left-side
+{
+  float:left;
+  border-color:darkgrey;
+  border-style:solid;
+  border-width:1px;
+}
+

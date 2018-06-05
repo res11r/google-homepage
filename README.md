@@ -1,0 +1,1 @@
+Google homepage's ugly brother. This was done without much attention to the specifics of the styles, but rather the focus was on getting used to positioning and dimensioning first and foremost. Never viewed Google's source code when creating it.
